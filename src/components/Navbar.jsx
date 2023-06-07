@@ -16,8 +16,12 @@ const Navbar = () => {
         <a href="https://www.facebook.com/PaloDeAguaMusica">
           <BsFacebook size={30} />
         </a>
-        <a href="mailto:palodeaguamusica@gmail.com"
-        className="lg:text-2xl font-bold	">Contacto</a>
+        <a
+          href="mailto:palodeaguamusica@gmail.com"
+          className="lg:text-2xl font-bold	"
+        >
+          Contacto
+        </a>
       </div>
     </div>
   );

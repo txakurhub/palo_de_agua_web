@@ -2,7 +2,7 @@ const Disco = () => {
   return (
     <div className="w-full flex flex-col items-center justify-center">
       <div className=" flex flex-col items-center justify-center">
-        <h2 className="text-xl font-bold text-center">Palo de Agua (2023) Album</h2>
+        <h1 className="font-bold text-2xl pb-5">Palo de Agua (2023) Album</h1>
       </div>
       <div className="text-lg font-medium pt-5 pb-1 text-center">
         Axel Gottschalk: 7 cuerdas, Guitarra eléctrica, Ronrroco, Bajo, Flauta,

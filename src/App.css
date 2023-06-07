@@ -15,5 +15,6 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  transition: background-image 0.5s ease-in-out; /* Opcional: para agregar una transición suave al cambiar la imagen */
+  transition: background-image 0.5s ease-in-out;
+  /* Opcional: para agregar una transición suave al cambiar la imagen */
 }
