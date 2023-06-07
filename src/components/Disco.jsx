@@ -1,21 +1,10 @@
-import { FaBandcamp } from "react-icons/fa";
 const Disco = () => {
   return (
     <div className="w-full flex flex-col items-center justify-center">
-      <div className="py-10 flex flex-col items-center justify-center">
-        <h2 className="text-xl font-bold text-center">
-          Si aún no lo has comprado pero quieres apoyar nuestro proyecto <br />{" "}
-          puedes comprar el álbum aquí
-        </h2>
-        <p className="font-bold text-sm">{`If you haven't bought it yet, but you want to
-        support our project you can buy the album here`}</p>
-        <div className="py-5">
-          <a href="https://palodeagua.bandcamp.com/" className="text-celeste">
-            <FaBandcamp size={40}/>
-          </a>
-        </div>
+      <div className=" flex flex-col items-center justify-center">
+        <h2 className="text-xl font-bold text-center">Palo de Agua (2023)</h2>
       </div>
-      <div className="text-sm text-center font-semibold -mt-10">
+      <div className="text-sm text-center font-semibold">
         Axel Gottschalk: 7 cuerdas, Guitarra eléctrica, Ronrroco, Bajo, Flauta,
         Voz. <br />
         Manu Cid: Flauta, Saxo Soprano, Voz. <br />

@@ -2,7 +2,7 @@ import logo from "../assets/LOGO-Azul1.png";
 import { BsFacebook, BsInstagram, BsYoutube } from "react-icons/bs";
 const Navbar = () => {
   return (
-    <div className="w-full h-28 bg-white text-celeste flex flex-row justify-around fixed items-center z-50">
+    <div className="w-full h-28 bg-black text-celeste flex flex-row justify-around fixed items-center z-50">
       <a href="/">
         <img src={logo} alt="logo" className="h-20" />
       </a>
