@@ -2,9 +2,9 @@ const Disco = () => {
   return (
     <div className="w-full flex flex-col items-center justify-center">
       <div className=" flex flex-col items-center justify-center">
-        <h2 className="text-xl font-bold text-center">Palo de Agua (2023)</h2>
+        <h2 className="text-xl font-bold text-center">Palo de Agua (2023) Album</h2>
       </div>
-      <div className="text-sm text-center font-semibold">
+      <div className="text-lg font-medium pt-5 pb-1 text-center">
         Axel Gottschalk: 7 cuerdas, Guitarra eléctrica, Ronrroco, Bajo, Flauta,
         Voz. <br />
         Manu Cid: Flauta, Saxo Soprano, Voz. <br />

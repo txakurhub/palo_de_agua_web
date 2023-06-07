@@ -1,10 +1,10 @@
 const Description = () => {
   return (
-    <div className="flex flex-col justify-center items-end">
-      <h1 className="font-bold text-2xl pb-10">Acerca de Palo de Agua</h1>
-      <div className="flex flex-col justify-center items-end text-end w-10/12">
+    <div className="flex flex-col justify-center items-start">
+      <h1 className="font-bold text-2xl pb-5">Acerca de</h1>
+      <div className="flex flex-col justify-center items-start text-start w-11/12">
         <h2 className="text-xl font-medium pb-1">
-          Palo de Agua nace entre la necesidad de revalorizar nuestras
+          <b>Palo de Agua</b> nace entre la necesidad de revalorizar nuestras
           creaciones, y el contagio de aquella alegre rebeldía. Es un encuentro
           que hizo confluir caminos, y así logramos fundir la producción de
           poesías y universos musicales. Desde el sur de México, desde cada
