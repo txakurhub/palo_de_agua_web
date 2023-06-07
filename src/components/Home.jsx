@@ -13,7 +13,7 @@ const Home = () => {
       <div className="flex flex-row my-5 gap-5">
         <a
           className="bg-sky-700 hover:bg-sky-500 text-white font-bold px-4 py-2 rounded-xl"
-          href="https://palodeagua.bandcamp.com/"
+          href="https://drive.google.com/drive/folders/11xtv5fPhyomled1NBxwe-wOo144dAZnz?usp=drive_link"
         >
           Descargar
         </a>
@@ -29,6 +29,3 @@ const Home = () => {
 };
 
 export default Home;
-
-//Si compraste nuestro album aquí puedes descargarlo
-//If you bought our album download it
